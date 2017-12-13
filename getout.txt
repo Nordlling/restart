@@ -1,4 +1,2 @@
 first variant!
-now it's second!
-today it's a third
-
+now it's second
