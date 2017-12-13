@@ -1,1 +1,2 @@
-first variant
+first variant!
+now it's second
